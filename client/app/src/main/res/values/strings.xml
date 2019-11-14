@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GrpcClient</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Magenta</item>
+    </string-array>
+
+    <string-array name="animals">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Parrot</item>
+        <item>Monkey</item>
+        <item>Tiger</item>
+        <item>Emu</item>
+    </string-array>
+</resources>
